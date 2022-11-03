@@ -1,0 +1,11 @@
+#container {
+    background-color: rgba(242, 222, 219, 0.966);
+    text-align: left;
+}
+h1 {
+    background-color: rgba(255, 169, 8, 0.594);
+    border: 100%;
+}
+ul {
+    list-style: none;
+}
