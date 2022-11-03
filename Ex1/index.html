@@ -18,7 +18,32 @@
         documento.
       </p>
       <h2>Problemas resueltos por HTML<sub>5</sub></h2>
-      <p>La deficnición de la estructura de un documento </p>
+      <p>
+        La deficnición de la estructura de un documento en HTML<sub>4</sub> y su
+        algoritmo de perfilado es muy tosco y genera numerosos problemas.
+      </p>
+      <ol>
+        <li>
+          HTML<sub>5</sub> quita la necesidad de elementos &lt;div> para definir
+          secciones semánticas sin definir valores específicos para los
+          atributos class, introduciendo un nhuevo elemento, &lt;section>, el
+          elemento de sección HTML.
+        </li>
+        <br>
+        <li>
+          Mezclar varios documentos en difícil: la inclusión de un sub-documento
+          en un documento principal. Esto se resuelve en HTML<sub>5</sub> con
+          los elementos de seccionado (&lt;article>,&lt;section>, &lt;nav> y
+          &lt;aside>) son siempre subsecciones de su sección ancestra más
+          cercana.
+        </li>
+        <br>
+        <li>
+         HTML<sub>5</sub> introduce el elemento &lt;hgroup> que oculta todos los elementos de cabecera excepto
+         el primero de más alto rango (por ejemplo, &lt;hgroup>&lt;h1>Justine&lt;/h1>&lt;h2>Les Malheurs de 
+         la Vertu&lt;/h2>&lt;/hgroup> crea el perfil 1. Justine). 
+        </li>
+      </ol>
     </div>
   </body>
 </html>
