@@ -1,0 +1,19 @@
+.container-especie {
+    border: 3px solid aquamarine;
+    width: 90vw;
+    height: 100vh;
+    font-family: 'Lucida Sans unicode';
+    border: solid #cdc6c6;
+    border-bottom-width: 10px;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    /* background-color: blue; */
+}
+.especies {
+    /* background-color: pink; */
+    /* border: 3px solid aquamarine; */
+    width: 89vw;
+    height: 98vh;
+    margin: 1px;
+    }
