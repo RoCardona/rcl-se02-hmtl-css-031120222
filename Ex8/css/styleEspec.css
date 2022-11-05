@@ -9,6 +9,7 @@
     border-right-width: 10px;
     border-left-width: 10px;
     /* background-color: blue; */
+    float: left;
 }
 .especies {
     /* background-color: pink; */
@@ -16,4 +17,24 @@
     width: 89vw;
     height: 98vh;
     margin: 1px;
+   
     }
+    .clasificacion {
+    /* background-color: gold; */
+    border: 3px solid aquamarine;
+    width: 67vw;
+    height: 62vh;
+    box-align: center;
+    margin: 1em;
+    float: left;
+}
+ .posicion-ul {
+  float: left;
+  display: grid; 
+}
+ul {
+  float: left;
+}
+
+
+

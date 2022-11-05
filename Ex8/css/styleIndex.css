@@ -20,8 +20,13 @@
 .introduccion {
     /* background-color: gold; */
     border: 3px solid aquamarine;
-    width: 87vw;
+    width: 67vw;
     height: 50vh;
     box-align: center;
     margin: 1em;
+    float: left;
+}
+
+ul {
+    float: left;
 }
