@@ -1,0 +1,71 @@
+.green {
+  color: rgba(5, 120, 5, 0.678);
+}
+.brown,
+h4 {
+  color: rgba(130, 47, 47, 0.854);
+}
+h2,
+h3 {
+  color: rgb(25, 152, 25);
+}
+h1 {
+  text-align: center;
+  margin-top: -1em;
+  letter-spacing: 5px;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  float: left;
+  list-style: none;
+  margin: 1px;
+}
+.principal {
+  background: linear-gradient(#b83cf6, #f4abdb);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  padding: 10px 27px 10px;
+  text-align: center;
+  color: black;
+  float: left;
+}
+.left {
+  padding: 10px 15px 10px;
+  text-align: left;
+  color: black;
+background: linear-gradient(#3cf674, #a6a63f);
+  float: left;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+}
+.left1 {
+  padding: 10px 22px 10px;
+  text-align: left;
+  color: black;
+  background: linear-gradient(#3cf674, #a6a63f);
+  float: left;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+}
+.posicion-ul {
+  float: left;
+  display: grid;
+}
+img {
+  width: 85vw;
+  height: 30vh;
+  margin: 23px;
+}
+.pie-pagina {
+  text-align: center;
+  color: #cdc6c6;
+}

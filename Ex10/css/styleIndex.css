@@ -1,5 +1,4 @@
 .container-init {
-    /* background-color: blue; */
     width: 90vw;
     height: 90vh;
     font-family: 'Lucida Sans unicode';
@@ -10,19 +9,16 @@
     border-left-width: 9px;
 }
 .inicio {
-    /* background-color: pink; */
-    /* border: 3px solid aquamarine; */
-    width: 87vw;
-    height: 87vh;
-    margin: 1px;
+    width: 89vw;
+    height: 54vh;
     }
 
 .introduccion {
-    /* background-color: gold; */
     border: 3px solid aquamarine;
-    width: 67vw;
-    height: 50vh;
+    width: 75vw;
+    height: 44vh;
     box-align: center;
-    margin: 1em;
+    margin-left: 3em;
+    margin-top: -16px;
     float: left;
 }
