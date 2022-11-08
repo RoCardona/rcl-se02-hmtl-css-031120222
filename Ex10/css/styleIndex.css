@@ -15,10 +15,11 @@
 
 .introduccion {
     border: 3px solid aquamarine;
+    background: linear-gradient(lightskyblue, rgb(15, 138, 103));
     width: 75vw;
-    height: 44vh;
+    height: 47vh;
     box-align: center;
-    margin-left: 3em;
+    margin-left: 4em;
     margin-top: -16px;
     float: left;
 }
