@@ -1,0 +1,32 @@
+.container-especie {
+    border: 3px solid aquamarine;
+    width: 94vw;
+    height: 99vh;
+    font-family: 'Lucida Sans unicode';
+    border: solid #cdc6c6;
+    border-bottom-width: 10px;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    float: left;
+}
+.especies {
+    width: 98vw;
+    height: 60vh;
+    margin: 1px;
+    }
+    .clasificacion {
+    border: 3px solid aquamarine;
+    width: 83vw;
+    height: 57vh;
+    float: left;
+    box-align: right;
+    margin-left: 10em;
+    margin-top: -220px;
+}
+.size-15{
+    font-size: 15px;
+}
+.size-12{
+    font-size: 12px;
+}

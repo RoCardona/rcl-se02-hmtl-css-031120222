@@ -1,0 +1,26 @@
+.container-init {
+    width: 78vw;
+    height: 73vh;
+    font-family: 'Lucida Sans unicode';
+    border: solid #cdc6c6;
+    border-bottom-width: 25px;
+    border-top-width: 9px;
+    border-right-width: 9px;
+    border-left-width: 9px;
+}
+.inicio {
+    width: 90vw;
+    height: 93vh;
+    margin: 5px;
+    }
+.introduccion {
+    border: 3px solid aquamarine;
+    width: 67vw;
+    height: 50vh;
+    box-align: center;
+    margin: 1em;
+    float: left;
+}
+ul {
+    float: left;
+}
