@@ -1,30 +1,32 @@
 .container-especie {
     border: 3px solid aquamarine;
-    width: 90vw;
-    height: 100vh;
+    width: 94vw;
+    height: 99vh;
     font-family: 'Lucida Sans unicode';
     border: solid #cdc6c6;
     border-bottom-width: 10px;
     border-top-width: 10px;
     border-right-width: 10px;
     border-left-width: 10px;
-    /* background-color: blue; */
     float: left;
 }
 .especies {
-    /* background-color: pink; */
-    /* border: 3px solid aquamarine; */
-    width: 89vw;
-    height: 98vh;
+    width: 98vw;
+    height: 60vh;
     margin: 1px;
-   
     }
     .clasificacion {
-    /* background-color: gold; */
     border: 3px solid aquamarine;
-    width: 67vw;
-    height: 62vh;
-    box-align: center;
-    margin: 1em;
+    width: 83vw;
+    height: 57vh;
     float: left;
+    box-align: right;
+    margin-left: 10em;
+    margin-top: -220px;
+}
+.size-15{
+    font-size: 15px;
+}
+.size-12{
+    font-size: 12px;
 }
