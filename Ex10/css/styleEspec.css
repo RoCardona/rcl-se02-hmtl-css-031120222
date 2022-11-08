@@ -17,6 +17,7 @@
     }
     .clasificacion {
     border: 3px solid aquamarine;
+    background: linear-gradient(lightskyblue, rgb(15, 138, 103));
     width: 83vw;
     height: 57vh;
     float: left;
@@ -26,7 +27,4 @@
 }
 .size-15{
     font-size: 15px;
-}
-.size-12{
-    font-size: 12px;
 }
