@@ -15,7 +15,7 @@ A continuación muestro una imágen de la página a replicar y el resultado con 
 
 1️⃣
 
-<img src="/imagenesReadme/ejer 1.png" width="250" height="200">➡️➡️➡️<img src="/imagenesReadme/ejer 1.png" width="250" height="200"> 
+<img src="/imagenesReadme/ejer 1.png" width="450" height="400">➡️➡️➡️<img src="/imagenesReadme/ejer 1.png" width="450" height="400"> 
 
 💻
 https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex1
