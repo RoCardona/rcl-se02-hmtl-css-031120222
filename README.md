@@ -53,7 +53,8 @@ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex5/postresemana.html
 Estos ejercicios constan de dos partes, a continuación indico las URL de cada uno en orden:
 
 
-💻
+**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**💻**
+
 🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex6/index.html
 
 🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex6/especies.html
