@@ -1,0 +1,17 @@
+body {
+   margin: 0px;
+padding: 0px;
+} 
+#container {
+    background-color: aquamarine;
+    width: 55vw;
+    height: 70vh;
+    margin-left: 20%;
+    
+}
+.h1 .h2 {
+font-family: 'Lucida Sans';
+};
+.p {
+    font-family: 'Times New Roman';
+};

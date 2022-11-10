@@ -1,0 +1,25 @@
+.container-init {
+    width: 90vw;
+    height: 90vh;
+    font-family: 'Lucida Sans unicode';
+    border: solid #cdc6c6;
+    border-bottom-width: 25px;
+    border-top-width: 9px;
+    border-right-width: 9px;
+    border-left-width: 9px;
+}
+.inicio {
+    width: 89vw;
+    height: 54vh;
+    }
+
+.introduccion {
+    border: 3px solid aquamarine;
+    background: linear-gradient(lightskyblue, rgb(15, 138, 103));
+    width: 75vw;
+    height: 47vh;
+    box-align: center;
+    margin-left: 4em;
+    margin-top: -16px;
+    float: left;
+}
