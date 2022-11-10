@@ -8,6 +8,7 @@ El proyecto consiste en hacer 10 ejercicios, replicando las páginas que nos env
 ###Construido con 🛠️
 ![My Skills](https://skillicons.dev/icons?i=html,css,git)
 
+
 ## Ejercicios 🤓
 
 A continuación muestro una imágen de la página a replicar y el resultado con su URL para acceder directamente a cada uno:
@@ -41,16 +42,16 @@ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex5/postresemana.html
 Estos ejercicios constan de dos partes, a continuación indico las URL de cada uno en orden:
 
 💻
-🖋️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex6/index.html
-🖋️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex6/especies.html
-🖍️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex7/index.html
-🖍️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex7/especies.html
-🖋️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex8/index.html
-🖋️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex8/especies.html
-🖍️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex9/index.html
-🖍️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex9/especies.html
-🖋️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex10/index.html
-🖋️https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex10/especie.html
+🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex6/index.html
+🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex6/especies.html
+🖍️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex7/index.html
+🖍️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex7/especies.html
+🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex8/index.html
+🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex8/especies.html
+🖍️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex9/index.html
+🖍️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex9/especies.html
+🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex10/index.html
+🖋️ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex10/especie.html
 
 ## Agradecimientos 🍻
 Agradecer a Urbalab y GeeksHubs por la oportunidad que nos estan dando para aprender más sobre programación y cómo superar las frustraciones con cada reto que nos proponen.🤯
