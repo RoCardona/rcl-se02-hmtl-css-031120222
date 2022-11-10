@@ -1,0 +1,9 @@
+body{
+    background-color: cadetblue;
+}
+
+p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
