@@ -22,21 +22,21 @@ https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex1
 
 2️⃣
 
-<img src="/imagenesReadme/ejer2.png" width="450" height="200">➡️➡️➡️<img src="/imagenesReadme/mi ejer 2.png" width="450" height="200">
+<img src="/imagenesReadme/ejer2.png" width="300" height="400">➡️➡️➡️<img src="/imagenesReadme/mi ejer 2.png" width="300" height="400">
 
 💻
 https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex2/Ejemplo.html
 
 3️⃣
 
-<img src="/imagenesReadme/ejer 3.png" width="360" height="360">➡️➡️➡️<img src="/imagenesReadme/mi ejer 3.png" width="360" height="380">
+<img src="/imagenesReadme/ejer 3.png" width="330" height="330">➡️➡️➡️<img src="/imagenesReadme/mi ejer 3.png" width="330" height="330">
 
 💻
 https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex3/platosemana.html
 
 4️⃣
 
-<img src="/imagenesReadme/ejer 4.png" width=360" height="360">➡️➡️➡️<img src="/imagenesReadme/mi ejer 4.png" width="360" height="380">
+<img src="/imagenesReadme/ejer 4.png" width=330" height="330">➡️➡️➡️<img src="/imagenesReadme/mi ejer 4.png" width="330" height="330">
 
 💻
 https://rocardona.github.io/rcl-se02-hmtl-css-031120222/Ex4/platosemana.html
